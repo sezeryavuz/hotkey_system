@@ -50,7 +50,7 @@ Or
 dependencies:
   hotkey_system:
     git:
-      url: https://github.com/suysoftware/hotkey_system.git
+      url: https://github.com/sezeryavuz/hotkey_system.git
       ref: main
 ```
 #### Linux requirements
